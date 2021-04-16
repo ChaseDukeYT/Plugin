@@ -8,7 +8,7 @@ class Main extends PluginBase
 {
     public function onLoad()
     {
-        /** code */
+        $sender->sendMessage("This Is A Test!");
     }
 
     public function onEnable()
