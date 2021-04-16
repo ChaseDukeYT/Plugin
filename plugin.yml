@@ -1,5 +1,5 @@
 name: pocketmine-plugin-template
 main: src\plugin\Main
-api: 3
+api: 3.19.0
 version: 0.1.0
 author: ChaseDukeYT
