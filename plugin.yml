@@ -1,4 +1,4 @@
-name: ChaseDukeYT
+name: youtube
 main: src\plugin\Main
 api: 3.19.0
 version: 0.1.0
