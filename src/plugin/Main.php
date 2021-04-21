@@ -1,6 +1,6 @@
 <?php
 
-namespace plugin;
+namespace youtube;
 
 use pocketmine\plugin\PluginBase;
 
