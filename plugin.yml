@@ -6,5 +6,5 @@ author: ChaseDukeYT
  
  commands:
  youtube:
-  description: "Example1 command"
-  usage: "/example1"
+  description: "Youtube requirements"
+  usage: "/youtube"
