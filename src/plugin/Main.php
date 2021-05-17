@@ -12,8 +12,7 @@ class Main extends PluginBase
 {
     public function onLoad()
     {
-        $sender->sendMessage("§4Youtube§r§1Plugin Ready");
-    }
+    
 
     public function onEnable()
     {
@@ -24,6 +23,12 @@ class Main extends PluginBase
     {
         /** code */
     }
+  public function onCommand(CommandSender $sender, Command $command, $label, array $args) {
+        switch($command->getName()) {
+            case "youtube":
+                    $sender->sendMessage("§4 45 Subscribers on Youtube");
+    }
+                return true;        
    
     break; 
   }
